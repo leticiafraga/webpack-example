@@ -1,0 +1,12 @@
+.hello {
+    color: #333;
+    background-color: #c9e1e9;
+    padding: 12px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
